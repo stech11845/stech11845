@@ -6,7 +6,7 @@ HTML 5, Some CSS
 For the following reasons:
 - I like to clean up repos
 - I like to improve documentation
-- And make my own projectd!
+- And make my own projects!
 ## I'm hardly working on
 [Paintless](https://github.com/stech11845/Paintless), Build and Test (no repos yet)
 <!---
