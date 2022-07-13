@@ -1,4 +1,5 @@
 ## I'm stech11845
+![Profile views](https://komarev.com/ghpvc/?username=stech11845)
 Hi there! You stumbled across my GitHub account. This README shows everything I do in short detail, and a bit more.
 ## Languages
 HTML 5, Some CSS
