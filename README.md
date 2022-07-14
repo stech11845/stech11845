@@ -1,3 +1,4 @@
+<div align="center">
 ## I'm stech11845
 ![Profile views](https://komarev.com/ghpvc/?username=stech11845&label=&#x47;&#x69;&#x74;&#x48;&#x75;&#x62;&#x20;&#x50;&#x72;&#x6F;&#x66;&#x69;&#x6C;&#x65;&#x20;&#x76;&#x69;&#x65;&#x77;&#x73;&style=for-the-badge)
 
