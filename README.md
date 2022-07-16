@@ -22,4 +22,4 @@ You can click the Preview link to take a look at your changes.
 <!----------------------------------------------------------------------------->
 [Stats]: # 'GitHub stats'
 <!---------------------------------[ Buttons ]--------------------------------->
-[Button Example]: https://img.shields.io/badge/Stats-37a779?style=for-the-badge
+[Button Stats]: https://github.com/stech11845/stech11845/blob/main/stats.md
