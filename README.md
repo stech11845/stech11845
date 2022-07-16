@@ -12,6 +12,7 @@ For the following reasons:
 - And make my own projects!
 ## I'm hardly working on
 [Paintless](https://github.com/stech11845/Paintless), Build and Test (no repos yet)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=stech11845)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 stech11845/stech11845 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
