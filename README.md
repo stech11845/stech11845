@@ -2,8 +2,6 @@
   <h1>I'm stech11845</h1>
   Hi there! You stumbled across my GitHub account. This README shows everything I do in short detail, and a bit more.
   
-  [![Button Stats]][Stats]
-  
   ## Languages
 HTML 5, Some CSS
 ## Why I created this account?
@@ -19,7 +17,5 @@ stech11845/stech11845 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<!----------------------------------------------------------------------------->
-[Stats]: # 'GitHub stats'
-<!---------------------------------[ Buttons ]--------------------------------->
-[Button Stats]: (https://github.com/stech11845/stech11845/blob/main/stats.md)
+## GitHub stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=stech11845)](https://github.com/anuraghazra/github-readme-stats)
